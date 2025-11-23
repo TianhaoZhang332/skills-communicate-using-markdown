@@ -7,7 +7,7 @@
 
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -26,3 +26,4 @@
 
 
 Create a new md file and typr something
+
