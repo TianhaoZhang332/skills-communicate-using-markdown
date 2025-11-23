@@ -20,6 +20,9 @@ public class Main{
 
 ```
 
+- [ ] edit the file
+- [ ] complete assighment
+- [x] run 
 
 
 
@@ -34,5 +37,6 @@ public class Main{
 
 
 Create a new md file and typr something
+
 
 
