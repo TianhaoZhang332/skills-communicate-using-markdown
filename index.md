@@ -10,7 +10,15 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+```java
+public class Main{
+  public class void main(String[] args){
+    System.out.println("This is a code block");
+  }
+}
 
+
+```
 
 
 
@@ -26,4 +34,5 @@
 
 
 Create a new md file and typr something
+
 
